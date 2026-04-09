@@ -15,9 +15,7 @@ GemSpot is a cross-platform mobile application built with **React Native (Expo)*
 * [Getting Started](#-getting-started)
 * [Environment Variables](#-environment-variables)
 * [Firebase Setup](#-firebase-setup)
-* [Available Scripts](#️-available-scripts)
 * [Database Schema](#-database-schema)
-* [Contributing](#-contributing)
 
 ---
 
