@@ -106,7 +106,7 @@ gemSpot/
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/gemSpot.git
+git clone https://github.com/srishtiraj22/GemSpot
 cd gemSpot
 npm install
 ```
